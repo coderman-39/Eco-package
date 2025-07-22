@@ -1,4 +1,4 @@
-# PackChain Production Deployment Guide (Ultra-Detailed)
+# PackChain Production Deployment Guide
 
 This guide will walk you through every step to deploy the PackChain system for real-world use with live Hyperledger Fabric and IoT integrations. No prior blockchain or IoT experience is required. Every command, file, and configuration is explained in detail.
 
@@ -299,5 +299,3 @@ A: Use `mqtt pub` to send a message to `iot/test-device/telemetry` and watch the
 A: Use HTTPS, strong credentials, firewall rules, and regular monitoring as described above.
 
 ---
-
-For further support, contact your system integrator or the PackChain development team. If you get stuck, copy any error messages and share them with your support contact for fast help. 
